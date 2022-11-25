@@ -1,6 +1,6 @@
 {
   "name": "simpliest-react-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simpliest react timer",
   "main": "index.js",
   "scripts": {
