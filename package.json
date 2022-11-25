@@ -1,0 +1,22 @@
+{
+  "name": "simpliest-react-timer",
+  "version": "1.0.0",
+  "description": "Simpliest react timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "isolonenko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  }
+}
