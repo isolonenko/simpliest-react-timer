@@ -3,9 +3,9 @@
 Basically, this hook expects as an argument expiryDate to start with, and returns timeLeft object.
 
 Usage: 
-
+```typescript
   const timeLeft = useTimer({
     expiryDate: new Date('some date in future'),
   });
-
+```
 All the UI implementation rests on you.
